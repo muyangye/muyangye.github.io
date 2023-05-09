@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Catch That Puppo!"
-summary: "Tabletop Game Design"
+summary: "Tabletop Game Designer"
 date:   2021-12-01 00:00:00
 preview: /assets/Catch%20That%20Puppo!/cover.png
 ---

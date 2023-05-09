@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Older Game"
-summary: "Associate Technical Designer"
-date:   2022-09-07 15:39:40
-preview: /assets/postpreview.png
+title:  "Space Invaders"
+summary: "Creator and Programmer"
+date:   2022-03-01 00:00:00
+preview: /assets/Space%20Invaders/cover.png
 ---
 
-![Picture 1](/assets/fullsize.png)
+![Picture 1](/assets/Space%20Invaders/cover.png)
 
 Put down info here, either in bullets or paragraphs.
