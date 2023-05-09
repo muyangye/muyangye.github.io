@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Travel Photos"
-permalink: /gallery/
+permalink: /blogs/
 ---
 
 test
