@@ -24,13 +24,13 @@ Many of my previous game friends become renowned professional players/youth camp
 
 By the way those are just competitive games, I either like very competitive games or solo games (i.e. I don't really enjoy playing non-competitive games with others). Here are my favorite solo games by genre (* means wayyyyyy better than other games of the same genre IMO):
 <ul style="padding-left: 20px"> 
-  <li><strong>Narrative/Story-Drive</strong>: Life Is Strange I*</li>
-  <li><strong>Actio</strong>: Watch Dogs 2</li>
-  <li><strong>Tower Defens</strong>: Kingdom Rush series*</li>
-  <li><strong>Shooting/Fightin</strong>: Clone Drone in the Danger Zone</li>
-  <li><strong>Musi</strong>: Geometry Dash*</li>
-  <li><strong>Puzzl</strong>: Portal</li>
-  <li><strong>Horro</strong>: Dead Space</li>
+  <li><strong>Narrative/Story-Driven</strong>: Life Is Strange I*</li>
+  <li><strong>Action</strong>: Watch Dogs 2</li>
+  <li><strong>Tower Defense</strong>: Kingdom Rush series*</li>
+  <li><strong>Shooting/Fighting</strong>: Clone Drone in the Danger Zone</li>
+  <li><strong>Music</strong>: Geometry Dash*</li>
+  <li><strong>Puzzle</strong>: Portal</li>
+  <li><strong>Horror</strong>: Dead Space</li>
   <li><strong>xxx</strong>: Mirror/Lost*</li>
 </ul>
 

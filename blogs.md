@@ -4,4 +4,4 @@ title: "Blogs"
 permalink: /blogs/
 ---
 
-test
+Technical blogs are in English while personal ones are in Chinese
