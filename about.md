@@ -12,11 +12,11 @@ I originally decided to study Computer Science because I wanted to modify/make g
 
 Besides CS, I reallyyyyyy loveeeeee to play games. Here are some of my game stats:
 <ul style="padding-left: 20px">
-  <li>Steam: 2104 hours. Favorite game: Life Is Strange I</li>
-  <li>Hearthstone: Legend rank in standard mode (2018)</li>
-  <li>Clash of Clans: In a clan that is ranked 3rd by clan wars total number of stars worldwide (2015)</li>
-  <li>League of Legends: Diamond IV rank in China's server (2016)</li>
-  <li>Honor of Kings (a Chinese mobile version of League of Legends): Ranked 2588 out of 0.4 billion players. (2019) Won numerous champions whose total award money exceeded ¥30,000. I am available for boosting and companion</li>
+  <li><strong>Steam</strong>: 2104 hours. Favorite game: Life Is Strange I</li>
+  <li><strong>Hearthstone</strong>: Legend rank in standard mode (2018)</li>
+  <li><strong>Clash of Clans</strong>: In a clan that is ranked 3rd by clan wars total number of stars worldwide (2015)</li>
+  <li><strong>League of Legends</strong>: Diamond IV rank in China's server (2016)</li>
+  <li><strong>Honor of Kings</strong> (a Chinese mobile version of League of Legends): Ranked 2588 out of 0.4 billion players. (2019) Won numerous champions whose total award money exceeded ¥30,000. I am available for boosting and companion</li>
   <li>...Some less accomplished achivements...</li>
 </ul>
 
@@ -24,14 +24,14 @@ Many of my previous game friends become renowned professional players/youth camp
 
 By the way those are just competitive games, I either like very competitive games or solo games (i.e. I don't really enjoy playing non-competitive games with others). Here are my favorite solo games by genre (* means wayyyyyy better than other games of the same genre IMO):
 <ul style="padding-left: 20px"> 
-  <li>Narrative/Story-Driven: Life Is Strange I*</li>
-  <li>Action: Watch Dogs 2</li>
-  <li>Tower Defense: Kingdom Rush series*</li>
-  <li>Shooting/Fighting: Clone Drone in the Danger Zone</li>
-  <li>Music: Geometry Dash*</li>
-  <li>Puzzle: Portal</li>
-  <li>Horror: Dead Space</li>
-  <li>xxx : Mirror/Lost*</li>
+  <li><strong>Narrative/Story-Drive</strong>: Life Is Strange I*</li>
+  <li><strong>Actio</strong>: Watch Dogs 2</li>
+  <li><strong>Tower Defens</strong>: Kingdom Rush series*</li>
+  <li><strong>Shooting/Fightin</strong>: Clone Drone in the Danger Zone</li>
+  <li><strong>Musi</strong>: Geometry Dash*</li>
+  <li><strong>Puzzl</strong>: Portal</li>
+  <li><strong>Horro</strong>: Dead Space</li>
+  <li><strong>xxx</strong>: Mirror/Lost*</li>
 </ul>
 
 In my leisure time, I also enjoy sailing, badminton, parkour, skateboarding, and archery.
