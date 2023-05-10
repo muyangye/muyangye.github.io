@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /about/
 ---
 
-![Picture 1](/assets/me.png)
+![Picture 1](/assets/me.jpg)
 
 Hi, my name is Muyang Ye (or 叶沐阳 you happen to know Chinese)! I am from Guangzhou/Canton born on Halloween of 2002. I am a 1st-generation junior studying Computer Science at the University of Southern California.
 
