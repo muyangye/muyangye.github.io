@@ -1,15 +1,11 @@
 ---
 layout: post
-title:  "Newest Game"
-summary: "Lead Programmer and Designer"
+title:  "Netease Playlist to Spotify Migrater"
+summary: "Creator and Programmer"
 date:   2022-10-09 15:39:40
-preview: /assets/postpreview.png
+preview: /assets/Netease%20Playlist%20to%20Spotify/cover.png
 ---
 
-![Picture 1](/assets/fullsize.png)
+![Picture 1](/assets/Netease%20Playlist%20to%20Spotify/cover.png)
 
-Here's some impressive stuff I did:
-
-* Added ChatGPT for NPC dialogues
-* Won game of the year from 200 publications
-* Was named *Time* person of the year (as a video game)
+Put down info here, either in bullets or paragraphs.

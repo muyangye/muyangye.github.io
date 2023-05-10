@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Travel Photos"
+title: "Blogs"
 permalink: /blogs/
 ---
 
