@@ -11,7 +11,7 @@ Hi, my name is Muyang Ye (or 叶沐阳 you happen to know Chinese)! I am from Gu
 I originally decided to study Computer Science because I wanted to modify/make games. However, after several years of programming, I've shifted my focus to the practicality of Computer Science to solve problems in daily lives. For example, I have built a fast [travel planner/Traveling Salesman solver](https://github.com/muyangye/Traveling_Salesman_Solver_Google_Maps) (although I don't have enough money yet to justify the demand of planning the best travel route for 20+ places😆), a [Netease playlist to Spotify migrater](https://github.com/muyangye/Netease_To_Spotify) (ongoing), a [NBA result predictor](https://github.com/muyangye/NBA_Prediction), a fake SMTP sender (private), game development infrastructures (private), ... Coming from a competitive programming background in high school, I also love to explore theoretical aspects of Computer Science such as algorithms.
 
 Besides CS, I reallyyyyyy loveeeeee to play games. Here are some of my game stats:
-<ul style="padding-left: 10px">
+<ul style="padding-left: 20px">
   <li>Steam: 2104 hours. Favorite game: Life Is Strange I</li>
   <li>Hearthstone: Legend rank in standard mode (2018)</li>
   <li>Clash of Clans: In a clan that is ranked 3rd by clan wars total number of stars worldwide (2015)</li>
@@ -23,7 +23,7 @@ Besides CS, I reallyyyyyy loveeeeee to play games. Here are some of my game stat
 Many of my previous game friends become renowned professional players/youth camp candidates now. I once thought if I were to insist on gaming I would probably be one too, yet I deeply understand how competitive and talented others are and Computer Science takes away a significant portion of my interest. So here I am.
 
 By the way those are just competitive games, I either like very competitive games or solo games (i.e. I don't really enjoy playing non-competitive games with others). Here are my favorite solo games by genre (* means wayyyyyy better than other games of the same genre IMO):
-<ul style="padding-left: 10px"> 
+<ul style="padding-left: 20px"> 
   <li>Narrative/Story-Driven: Life Is Strange I*</li>
   <li>Action: Watch Dogs 2</li>
   <li>Tower Defense: Kingdom Rush series*</li>
@@ -37,10 +37,10 @@ By the way those are just competitive games, I either like very competitive game
 In my leisure time, I also enjoy sailing, badminton, parkour, skateboarding, and archery.
 
 ## Work Experience
-<ul style="padding-left: 10px">
-  <li>Software Engineer Intern, **Microsoft**, May 2023-August 2023</li>
-  <li>Software Engineer Intern, **Walmart Labs**, May 2022-August 2022</li>
-  <li>Software Engineer Intern, **Joyy**, May 2021-August 2021</li>
-  <li>Research Assistant, **USC Networked Systems Lab**</li>
-  <li>Teaching Assistant, **USC Viterbi School of Engineering** for course CSCI 170</li>
+<ul style="padding-left: 20px">
+  <li>Software Engineer Intern, <strong>Microsoft</strong>, May 2023-August 2023</li>
+  <li>Software Engineer Intern, <strong>Walmart Labs</strong>, May 2022-August 2022</li>
+  <li>Software Engineer Intern, <strong>Joyy</strong>, May 2021-August 2021</li>
+  <li>Research Assistant, <strong>USC Networked Systems Lab</strong></li>
+  <li>Teaching Assistant, <strong>USC Viterbi School of Engineering</strong> for course CSCI 170</li>
 </ul>
