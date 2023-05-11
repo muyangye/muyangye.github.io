@@ -12,11 +12,10 @@ I originally decided to study Computer Science because I wanted to modify/make g
 
 Besides CS, I reallyyyyyy loveeeeee to play games. Here are some of my game stats:
 <ul style="padding-left: 20px">
-  <li><strong>Steam</strong>: 2104 hours. Favorite game: Life Is Strange I</li>
   <li><strong>Hearthstone</strong>: Legend rank in standard mode (2018)</li>
   <li><strong>Clash of Clans</strong>: In a clan that is ranked 3rd by clan wars total number of stars worldwide (2015)</li>
   <li><strong>League of Legends</strong>: Diamond IV rank in China's server (2016)</li>
-  <li><strong>Honor of Kings</strong> (a Chinese mobile version of League of Legends): Ranked 2588 out of 0.4 billion players. (2019) Won numerous champions whose total award money exceeded ¥30,000. I am available for boosting and companion</li>
+  <li><strong>Honor of Kings</strong> (a Chinese mobile version of League of Legends): Ranked 2588 out of 0.4 billion players. (2019) Won numerous champions whose total award money exceeded ¥20,000. I am available for boosting and companion</li>
   <li>...Some less accomplished achivements...</li>
 </ul>
 
@@ -34,7 +33,7 @@ By the way those are just competitive games, I either like very competitive game
   <li><strong>xxx</strong>: Mirror/Lost*</li>
 </ul>
 
-In my leisure time, I also enjoy sailing, badminton, parkour, skateboarding, and archery.
+In my leisure time, I also enjoy sailing, badminton, billiard, skateboarding, and archery.
 
 ## Work Experience
 <ul style="padding-left: 20px">
