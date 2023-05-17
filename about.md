@@ -43,3 +43,5 @@ In my leisure time, I also enjoy sailing, badminton, billiard, skateboarding, an
   <li>Research Assistant, <strong>USC Networked Systems Lab</strong></li>
   <li>Teaching Assistant, <strong>USC Viterbi School of Engineering</strong> for course CSCI 170</li>
 </ul>
+
+![Picture 2](/assets/sailing.jpg)
