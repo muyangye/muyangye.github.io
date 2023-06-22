@@ -6,9 +6,9 @@ permalink: /about/
 
 ![Picture 1](/assets/me.jpg)
 
-Hi, my name is Muyang Ye (or 叶沐阳 you happen to know Chinese)! I am from Guangzhou/Canton born on Halloween of 2002. I am a 1st-generation junior studying Computer Science at the University of Southern California. If it really matters, my MBTI is INFJ-A.
+Hi, I am Muyang Ye (if you happen to know Chinese, I would rather go by 叶沐阳)! My HelloWorld timestamp is somewhere between 1035928800 and 1035950400 and my hometown is Guangzhou/Canton which is a beautiful, funny, inclusive but wayyyyyy crowded city. I currently study Computer Science at the University of Southern California as a 1st-generation senior. So many people have wondered my MBTI and it is INFJ-A. Although I don't think it really matters at all, I do believe it is a much better stereotypification than the previous one based on constellation because it has some psychological associations and has 2^4^2 > 12 possibilities.
 
-I originally decided to study Computer Science because I wanted to modify/make games. However, after several years of programming, I've shifted my focus to the practicality of Computer Science to solve problems in daily lives. For example, I have built a fast [travel planner/Traveling Salesman solver](https://github.com/muyangye/Traveling_Salesman_Solver_Google_Maps) (although I don't really have enough money yet to justify the demand of planning the best travel route for 20+ places😆), a [Netease playlist to Spotify migrater](https://github.com/muyangye/Netease_To_Spotify), a [NBA result predictor](https://github.com/muyangye/NBA_Prediction), a **fake SMTP sender** (private), **game development infrastructures** (private), ... Coming from a competitive programming background in high school, I also love to explore theoretical aspects of Computer Science such as algorithms.
+I originally decided to study Computer Science because I wanted to modify/make games. However, after several years of programming, I've shifted my focus to the practicality of Computer Science to solve problems in daily lives. For example, I have built a fast [travel planner/Traveling Salesman solver](https://github.com/muyangye/Traveling_Salesman_Solver_Google_Maps) (although I don't really have enough money to justify the demand of planning the best travel route for 20+ places yet😆), a [Netease playlist to Spotify migrater](https://github.com/muyangye/Netease_To_Spotify), a [NBA result predictor](https://github.com/muyangye/NBA_Prediction), a **fake SMTP sender** (private), **game development infrastructures** (private), ... Coming from a competitive programming background in high school, I also love to explore theoretical aspects of Computer Science such as algorithms.
 
 Besides CS, I reallyyyyyy loveeeeee to play games. Here are some of my game stats:
 <ul style="padding-left: 20px">
@@ -33,7 +33,7 @@ By the way those are just competitive games, I either like very competitive game
   <li><strong>xxx</strong>: Mirror/Lost*</li>
 </ul>
 
-In my leisure time, I also enjoy sailing, badminton, billiard, skateboarding, and archery.
+In my leisure time, I also enjoy badminton, sailing, billiard, skateboarding, archery, and expoloring the most authentic Chinese restaurants around San Gabriel Valley - Rowland Heights (Come on, all other USA locations except New York are soooooo lame compared to LA).
 
 ## Work Experience
 <ul style="padding-left: 20px">
