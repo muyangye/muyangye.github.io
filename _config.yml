@@ -7,7 +7,7 @@ url: "https://muyangye.github.io" # the base hostname & protocol for your site
 linkedin_url: "https://www.linkedin.com/in/muyang-ye-84084b1a9/"
 github_username: muyangye
 # twitter_username: gamingportfolio
-footer_text: "This site uses <a href='https://github.com/gamingportfolio/urban-theme-portfolio'>urban-theme (portfolio)</a>."
+footer_text: "Copyright © 2023 realYMYPlus. No rights reserved."
 
 # Build settings
 markdown: kramdown

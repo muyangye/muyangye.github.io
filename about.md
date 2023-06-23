@@ -39,8 +39,8 @@ In my leisure time, I also enjoy badminton, sailing, billiard, skateboarding, ar
 <ul style="padding-left: 20px">
   <li>Software Engineer Intern, <strong>Microsoft</strong>, May 2023-August 2023</li>
   <li>Software Engineer Intern, <strong>Walmart Labs</strong>, May 2022-August 2022</li>
-  <li>Software Engineer Intern, <strong>Joyy</strong>, May 2021-August 2021</li>
-  <li>Research Assistant, <strong>USC Networked Systems Lab</strong></li>
+  <li>Software Engineer Intern, <strong>Joyy (Twitch of China)</strong>, May 2021-August 2021</li>
+  <li>Research Fellow, <strong>USC Networked Systems Lab</strong></li>
   <li>Teaching Assistant, <strong>USC Viterbi School of Engineering</strong> for course CSCI 170</li>
 </ul>
 
