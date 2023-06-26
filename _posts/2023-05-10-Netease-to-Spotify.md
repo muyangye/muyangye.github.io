@@ -20,7 +20,7 @@ This is where **OAuth 2.0** comes in. Remember the POST request we used to get *
 
 ![Picture 3](/assets/Netease%20Playlist%20to%20Spotify/auth-code-flow.png)
 
-With that **access token** and correctly set scopes, you can call APIs that require login. Using Python's requests and webbrowser modules, this is the base function that implements OAuth 2.0 and returns the **access token**:
+With that **access token** and correctly set scopes, you can call APIs that require login. Using Python's requests and webbrowser modules, this is the base class that implements OAuth 2.0 with a function that gets the **access token**:
 
 ```python
 import webbrowser
@@ -31,7 +31,7 @@ import base64
 AUTHORIZATION_ENDPOINT = "https://accounts.spotify.com/authorize"
 ACCESS_TOKEN_ENDPOINT = "https://accounts.spotify.com/api/token"
 
-class NeteaseToSpotify:
+class OAuth2Client:
     def __init__(self, client_id, client_secret, redirect_uri):
         self.client_id = client_id
         self.client_secret = client_secret
