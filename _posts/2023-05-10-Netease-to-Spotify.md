@@ -21,3 +21,42 @@ This is where **OAuth 2.0** comes in. Remember the POST request we used to get *
 ![Picture 3](/assets/Netease%20Playlist%20to%20Spotify/auth-code-flow.png)
 
 With that **access token** and correctly set scopes, you can call APIs that require login. Using Python's request and webbrowser modules, this is the base function that implements OAuth 2.0 and returns the **access token**:
+
+```python
+# Spotify's base apis
+AUTHORIZATION_BASE_URL = "https://accounts.spotify.com/authorize"
+ACCESS_TOKEN_URL = "https://accounts.spotify.com/api/token"
+
+class NeteaseToSpotify:
+    def __init__(self, spotify_client_id, spotify_client_secret, spotify_redirect_uri, netease_playlist_id=""):
+        self.spotify_client_id = spotify_client_id
+        self.spotify_client_secret = spotify_client_secret
+        self.spotify_scope = "playlist-modify-public playlist-modify-private"
+        self.spotify_redirect_uri = spotify_redirect_uri
+        self.spotify_access_token = self.get_spotify_access_token()
+        self.netease_playlist_id = netease_playlist_id
+
+    # TODO: Add access token cache
+    def get_spotify_access_token(self):
+        # NOTE: This self.spotify_redirect_uri is different from redirect_uri below after logging in. This is the one when you created your Spotify app
+        spotify = OAuth2Session(client_id=self.spotify_client_id, redirect_uri=self.spotify_redirect_uri, scope=self.spotify_scope)
+        # Open up browser and sign in to Spotify
+        webbrowser.open(spotify.authorization_url(AUTHORIZATION_BASE_URL)[0])
+        # This is the redirect_uri that contains code
+        redirect_uri = input("Please copy the entire redirected url after you logged in here:\n")
+        code = redirect_uri[redirect_uri.index("?code=") + 6 : redirect_uri.index("&state=")]
+        access_token = requests.post(ACCESS_TOKEN_URL, 
+            headers = {
+                "Authorization": "Basic " + base64.b64encode(bytes(self.spotify_client_id + ":" + self.spotify_client_secret, "utf-8")).decode(),
+                "Content-Type": "application/x-www-form-urlencoded"
+            },
+            params = {
+                "grant_type": "authorization_code",
+                # This is the code in the parameter of redirect_uri
+                "code": code,
+                "redirect_uri" : self.spotify_redirect_uri,
+            }
+        ).json()["access_token"]
+        return access_token
+```
+
