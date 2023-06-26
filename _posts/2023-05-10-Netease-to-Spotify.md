@@ -6,8 +6,6 @@ date:   2023-05-10 00:00:00
 preview: /assets/Netease%20Playlist%20to%20Spotify/cover.png
 ---
 
-![Picture 1](/assets/Netease%20Playlist%20to%20Spotify/cover.png)
-
 Netease Cloud Music is 1 of the 2 most popular music apps in China and I have used it intensively before. But many songs don't have copyrights here in USA (this is definitely not to say Netease is pirating songs, it's just that its subscription model only includes copyrights for songs to be played in China) and I don't want, ironically, to connect to a VPN that fakes my IP in China every time I listen to music. Therefore, I have decided to use Spotify as a subsitutive music app. Now the question becomes how to migrate my old playlists on Netease to Spotify: It is infeasible to do this manually since a playlist may have hundreds, even thousands of songs. This is why I built this project.
 
 Since Netease only opens APIs for partners, I have to rely on existing libraries and the one I used is <a href="https://github.com/mos9527/pyncm">PyNCM</a>. By contrast, Spotify actually opens its official APIs so ofc I tried to use it in the beginning (which implies I didn't use it eventually, explained later). The biggest challenge I encountered is **OAuth 2.0**, a rather complex authentication with minimal documentation/explanation, which is why I am writing a blog here to help others who may face the same difficulty in the future using Spotify as an example.
