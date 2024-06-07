@@ -9,8 +9,8 @@ main:
   - title: "Games"
     url: /games/    
 
-  - title: "Travel"
-    url: /travel/    
+  - title: "Places"
+    url: /places/    
         
   - title: "Blogs"
     url: /year-archive/

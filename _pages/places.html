@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Places"
+permalink: /places/
+author_profile: true
+---
+
+{% include base_path %}
+I have been to over 15 countries in the world, I plan to use this page as a collection for myself (still under construction). My current goal is to summit Rainier in 2 years and Denali in 5 years (shoot me an email if you are interested in training together!!!).
+
+{% for post in site.places %}
+  {% include archive-single.html %}
+{% endfor %}
+

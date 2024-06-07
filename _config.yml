@@ -211,7 +211,7 @@ collections:
   games:
     output: true
     permalink: /:collection/:path/
-  travel:
+  places:
     output: true
     permalink: /:collection/:path/
   talks:
