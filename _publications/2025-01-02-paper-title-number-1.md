@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-04-16-paper-title-number-1
 excerpt: 'This paper is about coming soon.'
 date: 2025-01-02
-venue: 'USENIX Symposium on Networked Systems Design and Implementation (NSDI)'
+venue: 'ACM Special Interest Group on Data Communication (SIGCOMM) Conference'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Coming soon'
 ---
