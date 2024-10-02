@@ -1,11 +1,11 @@
 ---
-title: "Coming Soon"
+title: "iFlow - An Interactive Max-Flow Min-Cut Algorithms Visualizer"
 collection: publications
 permalink: /publication/2024-04-16-paper-title-number-2
 excerpt: 'This paper is about coming soon.'
 date: 2025-01-01
-venue: 'The ACM Special Interest Group on Computer Science Education (SIGCSE)'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+venue: 'ACM Special Interest Group on Computer Science Education (SIGCSE) Technical Symposium'
+paperurl: 'Will post on arXiv soon'
 citation: 'Coming soon'
 ---
 
