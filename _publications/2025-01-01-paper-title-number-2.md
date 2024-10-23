@@ -5,7 +5,7 @@ permalink: /publication/2024-04-16-paper-title-number-2
 excerpt: 'This paper is about coming soon.'
 date: 2025-01-01
 venue: 'ACM Special Interest Group on Computer Science Education (SIGCSE) Technical Symposium'
-paperurl: 'Will post on arXiv soon'
+paperurl: 'https://sigcse2025.sigcse.org/track/sigcse-ts-2025-Papers#event-overview'
 citation: 'Coming soon'
 ---
 
