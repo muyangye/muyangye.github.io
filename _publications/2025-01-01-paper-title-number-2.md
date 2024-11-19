@@ -5,7 +5,7 @@ permalink: /publication/2024-04-16-paper-title-number-2
 excerpt: 'This paper is about coming soon.'
 date: 2025-01-01
 venue: 'ACM Special Interest Group on Computer Science Education (SIGCSE) Technical Symposium'
-paperurl: 'https://sigcse2025.sigcse.org/track/sigcse-ts-2025-Papers#event-overview'
+paperurl: 'https://sigcse2025.sigcse.org/details/sigcse-ts-2025-Papers/135/iFlow-An-Interactive-Max-Flow-Min-Cut-Algorithms-Visualizer'
 citation: '<b>Muyang Ye</b>, Tianrui Xia, Tianxin Zu, Qian Wang, David Kempe'
 ---
 
