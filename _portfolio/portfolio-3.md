@@ -1,5 +1,5 @@
 ---
-title:  "Interactive Maxflow Algorithms Visualizer"
+title:  "Interactive Max-Flow Min-Cut Algorithms Visualizer"
 excerpt: "Architect and Programmer<br/><img src='/images/maxflow.png'>"
 collection: portfolio
 ---
