@@ -6,14 +6,14 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Games"
-    url: /games/    
-
-  - title: "Places"
-    url: /places/    
-        
   - title: "Blogs"
     url: /year-archive/
+
+  - title: "Places"
+    url: /places/ 
+
+  - title: "Top 10 Games of All Time"
+    url: /games/
     
   # - title: "CV"
   #   url: /cv/
