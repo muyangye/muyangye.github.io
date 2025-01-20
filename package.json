@@ -24,6 +24,7 @@
     "node": ">= 0.10.0"
   },
   "dependencies": {
+    "academic-pages": "file:",
     "jquery": "^3.7.1"
   },
   "devDependencies": {
