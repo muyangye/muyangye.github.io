@@ -2,10 +2,9 @@
 title: "iFlow - An Interactive Max-Flow Min-Cut Algorithms Visualizer"
 collection: publications
 permalink: /publication/2024-04-16-paper-title-number-2
-excerpt: 'This paper is about coming soon.'
 date: 2025-01-01
 venue: 'ACM Special Interest Group on Computer Science Education (SIGCSE) Technical Symposium'
-paperurl: 'https://sigcse2025.sigcse.org/details/sigcse-ts-2025-Papers/135/iFlow-An-Interactive-Max-Flow-Min-Cut-Algorithms-Visualizer'
+paperurl: 'https://dl.acm.org/doi/10.1145/3641554.3701869'
 citation: '<b>Muyang Ye</b>, Tianrui Xia, Tianxin Zu, Qian Wang, David Kempe'
 ---
 
