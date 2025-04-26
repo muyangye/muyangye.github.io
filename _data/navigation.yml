@@ -11,9 +11,6 @@ main:
 
   - title: "Places"
     url: /places/ 
-
-  - title: "Top 10 Games of All Time"
-    url: /games/
     
   # - title: "CV"
   #   url: /cv/
