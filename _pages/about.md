@@ -14,9 +14,9 @@ I originally decided to study Computer Science because I wanted to modify/make g
 In my leisure time, I really love to play video games. I used to play games quite competitively (mainly League of Legends, its Chinese mobile version, and Hearthstone, I am pretty bad at 3D FPS): ranked top 1000 end of season out of more than 300,000,000 players, escaped classes to go to [PC bangs](https://en.wikipedia.org/wiki/PC_bang) when I was 11 (they provided fake IDs that are over 18 lol), and earned some cash by boosting or companionship. I really enjoy the 120% focus and physical excitement/exhaustment in top-ranked matches. Below are some photos of me winning/participating large scale esports competitions:
 
 <p align="center">
-  <img src="/images/games/1.jpg" width="200" style="margin-right: 20px;"/>
-  <img src="/images/games/2.jpg" width="200" style="margin-right: 20px;"/>
-  <img src="/images/games/3.jpg" width="200"/>
+  <img src="/images/games/1.jpg" width="222" style="margin-right: 20px;"/>
+  <img src="/images/games/2.jpg" width="222" style="margin-right: 20px;"/>
+  <img src="/images/games/3.jpg" width="222"/>
 </p>
 
 However, I decided to stop playing so much because of two reasons. For one, I realized I probably need to get some good education. Second, there exists way too many "actors" who intentionally lose for up to $1000 each match paid by "bosses" on the opponent side. This, combined with the foolish policy of banning professional players under 18, foreshadowed China's failure in esports in my opinion. That being said, nowadays I still play quite a lot of single-player games. My top 3 are Mass Effect Series, Legend of Zelda TOTK/BOTW, Life is Strange I, followed by various games (more like DLCs, lol) by CDPR. I guess I am just a huge Tolkien fantasy nerd!
