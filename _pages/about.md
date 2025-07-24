@@ -25,6 +25,8 @@ However, I decided to stop playing so much for two reasons. First, I realized I 
 
 In my leisure time, I love to play video games. In fact, I used to play quite competitively and earned some cash by boosting or winning esports competitions. I also enjoy badminton (once competitively too but much less so compared to video games), [traveling](https://muyangye.github.io/places/), mountaineering, cooking (maybe I'll create a page in the future), skateboarding, archery, normal/stand-up comedies (fav: George Carlin👨‍🦳), and all kinds of card games. <del>In addition, living in Los Angeles, I love to explore the most authentic food from all over the world.</del> (Only after leaving LA did I learn how superior LA's Asian restaurants are compared to other cities in the US, which kinda pushed my cooking skills to the next level)
 
+(Yeah, I really love to use parenthesis)
+
 Experience
 ======
 <ul style="padding-left: 20px">
