@@ -24,11 +24,11 @@ author:
   avatar           : "me.jpg"
   name             : "Muyang Ye"
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              : "Test"
   location         : "Arcadia Bay"
   employer         : "Microsoft"
   uri              : # URL
-  email            : "ymy@apache.org" 
+  email            : "ymy@apache.org"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
