@@ -1,0 +1,45 @@
+---
+title: 'Best Mandarin in the World + Great Restaurants in Greater Seattle'
+date: 2025-04-04
+permalink: /posts/2025/04/blog-post-2/
+tags:
+  - food
+  - fruit
+---
+
+To start off, I believe I have no particular pursuit of an extremely high quality of life. But I am paranoidly picky in one thing, food. Also, this post is not an ad or something, I just genuinely want to recommend the Orris and the restaurants to everyone.
+
+So, it was yet-another-trivial day in my life in 2023, I grabbed a random mandarin and peeled it open. Astonishingly, it instantly reminded me of the juiciest and sweetest kind of mandarin in my ancestral hometown. I literally took the peel out of trash can to read the label of this sacred fruit, [**Shoham Orri #4055**](https://www.mshoham.com/orrimandarinvariety).
+
+Since then, I've been really curious what is this Orri mandarin and discovered there is one more, and arguably more popular, brand of Orri, [**Jaffa Orri #4450**](https://orrijaffa.com/). I've been craving that for two years but unfortunately, according to my research, for some reason they are not available in US but are everywhere in Canada. Possibly due to the proximity between Seattle and Canada, I was able to finally taste it last week, which drove the creation of this post.
+
+In my opinion, a good mandarin should maximally match the following properties:
+- Very juicy
+- Very sweet
+- Low acidity but not 0, definitely no more than 10%
+- Easy to peel
+- Little to no seed
+
+The problem with the mandarins in my hometown is that they are usually very small in size and have too many seeds. So to my surprise, both Orris actually **match all of the above criteria**. They both claim "over 30 years of Research and Development", Jaffa Orri #4450 has even claimed itself to be the [favorite snack of Queen Elizabeth I](https://orrijaffa.com/about-jaffa/) (honestly I don't know how much of a truth is in that statement haha). Anyways, these are what the Orris look like:
+
+<p align="center">
+  <img src="/images/blog_post_2/shoham.jpg" alt="Shoham Orri #4405" width="45%"/>
+  <img src="/images/blog_post_2/jaffa.jpg" alt="Jaffa Orri #4450" width="45%"/>
+</p>
+
+I'll save the small talk and go straight to the comparison. Basically Jaffa Orri #4450 is the "more vanilla" version of Shoham Orri #4055, namely:
+- Shoham Orri #4055 is as sweet as 70% sugar level orange drinks in fruit tea shops and actually tastes much better because the sweet flavor is not artificial, whereas Jaffa Orri #4450 is about 70% of the sweetness of Shoham Orri #4055.
+- Jaffa Orri #4450 is more refreshing, a Shoham Orri #4055 is as filling as a boiled egg, wheras eating a Jaffa Orri #4450 is as if I didn't eat anything.
+- Jaffa Orri #4450 tastes 10%-20% more sour than Shoham Orri #4055, which offers a better balance between sweetness and acidity.
+
+Personally, I like Shoham Orri #4055 more, mainly because I prefer sweet over sour especially if the food is cold. Shoham Orri #4055 also has more uses such as being pressed into juice. Finally, when I am lazy/want to eat less, fried eggs + vegetables + Shoham Orri #4055 is a very fast yet great combo such that I won't feel hungry too soon. I highly recommend trying these premium fruits out!
+
+## List of Great Restaurants in Seattle
+This would be too long of a list for someone as lazy as me to come up with if I were in LA. Fortunately (well, more like unfortunately) there are only very few great restaurants around Seattle:
+- Eastern European: [Hye Life Cafe & Bar](https://www.google.com/maps/place/Hye+Life+Cafe+%26+Bar/@47.6179994,-122.1275094,14z/data=!4m15!1m8!3m7!1s0x54906defb12553e1:0x76be8e84579689e5!2sHye+Life+Cafe+%26+Bar!8m2!3d47.6179919!4d-122.127242!10e5!16s%2Fg%2F11g0hl81rk!3m5!1s0x54906defb12553e1:0x76be8e84579689e5!8m2!3d47.6179919!4d-122.127242!16s%2Fg%2F11g0hl81rk?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D)
+- Cantonese: [Jin Huang](https://www.google.com/maps/place/Jin+Huang+(King's+Kitchen)/@47.5989409,-122.325184,17z/data=!3m1!4b1!4m6!3m5!1s0x54906b0024381dbf:0xd67a034b5bcb3e40!8m2!3d47.5989373!4d-122.3226091!16s%2Fg%2F11wbhkp4_7)
+- Mexican: [La Chingona Taqueria](https://www.google.com/maps/place/La+Chingona+Mexican+Cuisine+Bellevue/@47.5893958,-122.3397297,12z/data=!4m10!1m2!2m1!1sLa+Chingona+Taqueria!3m6!1s0x54906d51347f422b:0x6ccbb85c9769adc4!8m2!3d47.6088774!4d-122.1435023!15sChRMYSBDaGluZ29uYSBUYXF1ZXJpYVoWIhRsYSBjaGluZ29uYSB0YXF1ZXJpYZIBEm1leGljYW5fcmVzdGF1cmFudKoBSwoNL2cvMTFzYjhyODF5dxABMh4QASIahgVArrL_TpG60-z55EgzYpQScS5Wg2B0dIQyGBACIhRsYSBjaGluZ29uYSB0YXF1ZXJpYeABAA!16s%2Fg%2F11kt_m3pmf?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D)
+- Cantonese Seafood: [Fortune Seafood Restaurant](https://www.google.com/maps/place/Fortune+Seafood+Restaurant/@47.389204,-122.5080629,11z/data=!4m10!1m2!2m1!1sfortune+seafood!3m6!1s0x54905ea1012efcb5:0x1f688761d0fe61ac!8m2!3d47.389204!4d-122.2031923!15sCg9mb3J0dW5lIHNlYWZvb2RaESIPZm9ydHVuZSBzZWFmb29kkgESc2VhZm9vZF9yZXN0YXVyYW50qgFMEAEqEyIPZm9ydHVuZSBzZWFmb29kKAAyHhABIhohKy60LTMjymrb2Air9tSgd55vNWNOTOKqqTITEAIiD2ZvcnR1bmUgc2VhZm9vZOABAA!16s%2Fg%2F1tdb3zvr)
+- Thai: [Thaiku](https://www.google.com/maps/place/Thaiku/@47.6780515,-122.3581954,17z/data=!3m1!4b1!4m6!3m5!1s0x5490143a01760a27:0x46d7accc01599397!8m2!3d47.6780479!4d-122.3556205!16s%2Fg%2F12cnr71vd)/[Isarn](https://www.google.com/maps/place/Isarn+Thai+Soul+Kitchen/@47.6743196,-122.2083876,17z/data=!3m1!4b1!4m6!3m5!1s0x549012dd960ba48f:0x25bf62c66468a905!8m2!3d47.674316!4d-122.2058127!16s%2Fg%2F1pzrgkr7j) > [Kin Len](https://www.google.com/maps/place/Kin+Len+Thai+Night+Bites/@47.6512773,-122.3526997,17z/data=!3m2!4b1!5s0x54901500b314e55f:0x18109da212221a36!4m6!3m5!1s0x54901593ddc0ca01:0xabc27a0b42855e4b!8m2!3d47.6512737!4d-122.3501248!16s%2Fg%2F11hdwd4c_x)/[Bangrak Market](https://www.google.com/maps/place/Bangrak+Market/@47.6143141,-122.3490448,16z/data=!3m1!4b1!4m6!3m5!1s0x549015243e68e023:0xb219216c99978ce2!8m2!3d47.6143105!4d-122.3464699!16s%2Fg%2F11h6m4995_) (Maybe because I'm not Thai I don't know what qualifies as truly authentic Thai food, but somehow there seems to be lots of good Thai restaurants around Seattle, at least they definitely feel very Asian lol)
+
+Yeah, that would be end of the list. My biggest complain is that there's 0 authentic spicy Hunan or Sichuan style Chinese restaurant and 0 authentic Japanese restaurant in the entire Greater Seattle Area...😓
