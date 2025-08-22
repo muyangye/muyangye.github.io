@@ -1,5 +1,5 @@
 ---
-title:  "Netease Playlist to Spotify Migrater"
+title:  "Netease Playlist to Spotify Migrator"
 excerpt: "Creator and Programmer<br/><img src='/images/netease_spotify.png'>"
 collection: portfolio
 ---
