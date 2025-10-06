@@ -32,9 +32,9 @@ Experience
 <ul style="padding-left: 20px">
   <li>Software Engineer, <strong>Microsoft</strong>, Jul 2024 - Present</li>
   <li>Committer, <strong>Apache StreamPipes</strong></li>
+  <li>Researcher, <strong>USC Networked Systems Lab</strong></li>
   <li>Software Engineer Intern, <strong>Microsoft</strong>, May 2023 - Aug 2023</li>
   <li>Software Engineer Intern, <strong>Walmart Labs</strong>, May 2022 - Aug 2022</li>
   <li>Software Engineer Intern, <strong>Joyy (Twitch of China)</strong>, May 2021 - Aug 2021</li>
-  <li>Researcher, <strong>USC Networked Systems Lab</strong></li>
   <li>Teaching Assistant, <strong>USC Viterbi School of Engineering</strong> for courses CSCI 270 and CSCI 170</li>
 </ul>
